@@ -6,7 +6,7 @@ Feito com React.js, o sistema usa a api do GitHub para buscar informações de r
 ### clonar
 `git clone https://github.com/guigovaski/react-repos.git`
 
-### instalar as depêndencias
+### instalar as dependências
 `npm install or yarn install`
 
 ### rodar o projeto
