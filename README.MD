@@ -1,5 +1,5 @@
 # Sistema de armazenamento de repositórios do GitHub
-Feito com React.js, o sistema usa a api do GitHub para buscar informações de repositórios informados pelo usuário e usa o localStorage para armazenar os repositórios.
+Feito com React.js, o sistema usa a api do GitHub para buscar informações de repositórios informados pelo usuário e usa o localStorage para armazená-los
 
 ## Para rodar esse projeto na sua máquina
 
